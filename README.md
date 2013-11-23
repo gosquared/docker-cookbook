@@ -1,4 +1,4 @@
-docker-cookbook
-===============
+Docker cookbook
+====
 
-Install docker on Ubuntu
+Installs docker on Ubuntu. That's pretty much it.

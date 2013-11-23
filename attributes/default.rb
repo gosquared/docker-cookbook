@@ -1,0 +1,1 @@
+default[:deliver][:action]     = "install"
